@@ -1,6 +1,6 @@
 # 🚀 AI Platform - Enterprise Integration Hub
 
-> A production-grade AI platform for seamless enterprise system integration with advanced SAP connectivity, real-time analytics, and intelligent automation.
+> A easy to reproduce AI platform for seamless enterprise system integration with advanced SAP connectivity, real-time analytics, and intelligent automation.
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -252,25 +252,3 @@ SAP_SERVER=production-sap-server
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-- **Documentation**: [docs/](docs/)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-platform/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-platform/discussions)
-
-## 🙏 Acknowledgments
-
-- **SAP** for enterprise integration capabilities
-- **Next.js** team for the amazing React framework
-- **FastAPI** for the high-performance Python backend
-- **Tailwind CSS** for the beautiful styling system
-
----
-
-<div align="center">
-
-**Built with ❤️ for Enterprise Integration**
-
-[⭐ Star this repo](https://github.com/yourusername/ai-platform) • [🐛 Report Bug](https://github.com/yourusername/ai-platform/issues) • [✨ Request Feature](https://github.com/yourusername/ai-platform/issues)
-
-</div>
